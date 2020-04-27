@@ -1,0 +1,22 @@
+{
+  "name": "wind-city",
+  "version": "1.0.0",
+  "description": "bot dla wind-city.pl",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meffciu/wind-city.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "meffo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meffciu/wind-city/issues"
+  },
+  "homepage": "https://github.com/meffciu/wind-city#readme"
+}
